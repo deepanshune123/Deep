@@ -1,0 +1,3 @@
+pip install telebot flask pymongo aiohttp python-telegram-bot pytz
+chmod +x *
+python3 LSR.py
